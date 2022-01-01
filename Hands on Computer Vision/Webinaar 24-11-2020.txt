@@ -1,0 +1,21 @@
+->video is nothing but collection of pictures.
+->isOpnened() will check whether image is present or not.
+->cap is object of video-we are able to read the frames
+->cap.read() will read video frame by frame.
+at the end success will be false then break the loop.
+
+VideoCapture
+->set()-used to set width and height of the video
+
+->Numpy-handles mathematical operations using numerical methods
+
+->cvtColor-first parameter is image and second is color of the image
+->Blur image,dialation image,canny image,grayscale image,eroded image
+
+->kernel
+
+->Draw Line-starting point ,end point ,color,3 is the thickness
+->upper left corner is (0,0) ,opposite of graph
+->Draw Rectangle-paramters are same like line
+->Draw Circle- center point,radius,color
+->putText-parameters(3-where,4-font type,,6-color)
