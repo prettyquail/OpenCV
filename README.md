@@ -1,8 +1,8 @@
 # OpenCV
 #### version of opencv-python used = 3.4.17.61
 
-![](Capture/BlurImage.PNG)
-![](Capture/DialationImage.PNG)
+![](Capture/5.BlurImage.PNG)
+![](Capture/7.DialationImage.PNG)
 
 ### Built with
 * [Python](https://www.python.org/)
