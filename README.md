@@ -1,5 +1,5 @@
 # OpenCV
-#### version of opencv-python used = 3.4.17.61
+#### version of opencv-python used = 4.4.0.40
 
 ![](Capture/5.BlurImage.PNG)
 ![](Capture/7.DialationImage.PNG)
